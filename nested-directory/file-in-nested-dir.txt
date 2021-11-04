@@ -1,0 +1,1 @@
+file in nested dir with templated var: {{ templated_var }}
